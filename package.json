@@ -26,6 +26,9 @@
     "content-disposition": "^0.3.0",
     "express": "^4.9.4"
   },
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
   "preferGlobal": true,
   "bin": {
     "cute-files": "cute-files.js"
